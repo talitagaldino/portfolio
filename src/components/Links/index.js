@@ -10,6 +10,7 @@ const Links = () => {
 
             <a href='https://www.google.com/' target="_blank"> 
                 <img className={'links'} src={git}></img>
+                <h1>talitaaa</h1>
             </a>
 
             <a href='https://www.facebook.com/' target="_blank"> 
