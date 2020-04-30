@@ -1,8 +1,24 @@
 .caixaExterna .caixaLinks{
     padding: 1vh 0vw;
     font-size: 5vh;
-    border-width: thick;
-    border-color: black;
-    border-style: solid;
-    margin-top: 5vh;
 }
+
+.caixaLinks .links{
+    color: rgb(192, 99, 37);
+    padding: 1px;
+    border-width: thick;
+    border-color: white;
+    border-style: solid;
+    display: flex;
+    flex: 1;
+    cursor: pointer;
+    margin: 10vh 10vh 10vh 0;
+    align-items: center;
+    width: 20vh;
+    height: 20vh;
+    position: static;
+    flex-direction: column;
+    
+
+}
+
