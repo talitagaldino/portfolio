@@ -4,6 +4,8 @@ import foto from './talita.png';
 import Titulo from './components/Titulo/index';
 import Descricao from './components/Descricao';
 import Links from './components/Links';
+import Informacoes from './components/Informacoes';
+import Rodape from './components/Rodape';
 
 const App = () => (
   <div>  
@@ -14,10 +16,11 @@ const App = () => (
         <Titulo />
         <Descricao />
         <Links />
+        <Informacoes />
       </div>
 
+      <Rodape />
       
-
     </div>
 
   </div>

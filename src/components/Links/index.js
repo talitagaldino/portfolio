@@ -8,16 +8,15 @@ const Links = () => {
     return (
         <div className={'caixaLinks'}>
 
-            <a href='https://www.google.com/' target="_blank"> 
+            <a href='https://github.com/talitagaldino' target="_blank"> 
                 <img className={'links'} src={git}></img>
-                <h1>talitaaa</h1>
             </a>
 
-            <a href='https://www.facebook.com/' target="_blank"> 
+            <a href='https://www.linkedin.com/in/talita-galdino-1808101a7/' target="_blank"> 
                 <img className={'links'} src={linkedin}></img>   
             </a>
             
-            <a href='https://www.instagram.com/' target="_blank"> 
+            <a href='https://www.instagram.com/talita_galdino' target="_blank"> 
                 <img className={'links'} src={insta}></img>    
             </a>
 

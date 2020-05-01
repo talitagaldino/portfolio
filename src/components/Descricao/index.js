@@ -5,7 +5,7 @@ const Descricao = () => {
     return(
 
     <p className={'caixaDescricao'}> 
-    textinho bla bla bla falando q eu sou muito legal uhuhuh texto texto texto uhuhuhu textoooo lalalalalallalalalalall
+        Future software engineer always trying to learn
     </p>
     
     );

@@ -3,17 +3,18 @@
     padding: 0;
     outline: 0;
     box-sizing: border-box;
-    background-color: rgba(255, 176, 130);
 }
 
 body{
     font-family: 'Arvo', 'Open Sans';
-    background-color: rgba(255, 176, 130);
+    background-color: rgb(163, 56, 56);
 }
 
 
 .imagem{
-    width:30%;
+    width: 100%;
+    max-width: 300px;
+    min-width: 300px;
     border-radius: 1%;
 }
 
@@ -22,5 +23,5 @@ body{
 }
 
 .caixaExterna .caixaInterna{
-    min-width: 80%;   
+    min-width: 100vh 100vw;   
 }

@@ -1,17 +1,18 @@
-.caixaExterna .caixaLinks{
+.caixaInterna .caixaLinks{
     padding: 1vh 0vw;
-    font-size: 5vh;
+    margin-top: 1vh;
+    overflow: hidden;
 }
 
 .caixaLinks .links{
-    color: rgb(192, 99, 37);
     padding: 1px;
-    width: 18vh;
-    height: 18vh;
-    cursor: pointer;
-    margin: 10vh 10vh 10vh 0;
+    width: 80px;
+    margin: 30px;
     display: inline-block;
-    
-
+    overflow: hidden
 }
 
+.caixaLinks .links:hover{
+    background-color: whitesmoke;
+    cursor: pointer;
+}
