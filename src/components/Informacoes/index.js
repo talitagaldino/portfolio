@@ -6,19 +6,19 @@ const Informacoes = () =>{
         <div>
             <h1 className={'subtitulo'}> About </h1>
                 <h1 className={'textoInformacoes'}>  
-                    My name is Talita Galdino, from Campina Grande, Brazil. I am a Computer Science undergraduate at Federal University of Campina Grande
-                    and I am currently in the fifth period.
+                    My name is Talita Galdino and I'm from Campina Grande, Brazil. I'm an undergraduate student
+                    of Computer Science at the Federal University of Campina Grande, with the graduation expected for 2022.
                 </h1>
                 <h1 className={'textoInformacoes'}>
-                    I worked as a discipline monitor for programming language paradigms for a period.
+                    I worked as teacher assistant for the topic of Programming Language Paradigms.
                 </h1>
                 <h1 className={'textoInformacoes'}>
-                    For three months I worked on the 
+                    For three months I worked for the 
                     <a className={'wywus'} href={'https://www.facebook.com/ProjetoWyWus'} target="_blank"> Wywus </a>
-                    project in the development of an application.
+                    project in the development of web applications.
                 </h1>
                 <h1 className={'textoInformacoes'}>
-                    I am interested in working with data analysis and learning even more about web development.
+                    Besides my interest in Web Development, I am an enthusiast of Data Analysis relate areas.
                 </h1>
 
         </div>
