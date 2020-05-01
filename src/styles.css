@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Arvo', 'Open Sans';
+    background-color: rgb(163, 56, 56);
+}
+
+
+.imagem{
+    width: 100%;
+    max-width: 300px;
+    min-width: 300px;
+    border-radius: 1%;
+    
+}
+
+.caixaInterna{
+    padding: 10vh 15vw;
+}
+
+.caixaExterna .caixaInterna{
+    min-width: 100vh 100vw; 
+    max-width: 100%; 
+}
