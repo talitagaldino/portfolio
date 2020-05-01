@@ -9,7 +9,8 @@
     width: 80px;
     margin: 30px;
     display: inline-block;
-    overflow: hidden
+    overflow: hidden;
+    border-radius: 5px;
 }
 
 .caixaLinks .links:hover{
