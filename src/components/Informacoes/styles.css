@@ -1,14 +1,14 @@
 .caixaInterna .subtitulo{
     padding: 0vh;
     font-size: 45px;
-    color: snow;
+    color: black;
     font-weight: bold;
 }
 
 .caixaInterna .textoInformacoes{
     margin-top: 5vh;
-    font-size: 25px;
-    color: snow;
+    font-size: 18px;
+    color: black;
     font-weight: 100;
 }
 
@@ -20,6 +20,6 @@
 }
 
 .textoInformacoes .wywus:hover{
-    color: snow;
+    color: black;
     text-decoration: underline;
 }

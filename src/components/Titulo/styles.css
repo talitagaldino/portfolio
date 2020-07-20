@@ -1,11 +1,11 @@
 .caixaInterna .titulo{
     margin-top: 50px;
     padding: 1vh;
-    background-color: snow;
+    background-color: #ffffff;
     font-size: 50px;
     display: flex;
     justify-content: flex-start;
     position: absolute;
-    color:rgb(187, 81, 81);
+    color: black;
     max-width: 60%;
 }

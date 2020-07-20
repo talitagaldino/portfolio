@@ -1,11 +1,12 @@
 .caixaExterna .rodape{
     max-width: 100%;
     padding: 10vh 15vw;
-    background-color: rgb(187, 81, 81);
+    background-color: #FFF;
 }
 
 h3.textoRodape{
-    background-color: rgb(187, 81, 81);
+    background-color: #FFF;
+    text-decoration-color: black;
     font-size: 3vh;
 }
 
