@@ -3,7 +3,7 @@ import './styles.css';
 
 const Informacoes = () =>{
     return(
-        <div>
+        <div id="informacoes">
             <h1 className={'subtitulo'}> About </h1>
                 <h1 className={'textoInformacoes'}>  
                     My name is Talita Galdino and I'm from Campina Grande, Brazil. I'm an undergraduate student

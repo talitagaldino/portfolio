@@ -1,0 +1,30 @@
+.navbarContainer {
+    width: 100%;
+    position: fixed;
+    background-color: white;
+    padding: 1rem 2.3rem;
+    height: 6rem;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.linksNavbar {
+    display: inline;
+    margin-top: 1.5rem;
+}
+
+.linksNavbar li {
+    display: inline;
+}
+
+.linksNavbar a {
+    list-style-type: none;
+    display: inline;
+    text-decoration: none;
+    color:#0066ff;
+}
+
+.linksNavbar a:hover {
+    text-decoration: underline;
+    color: #003983;
+}

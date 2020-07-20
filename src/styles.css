@@ -12,11 +12,12 @@ body{
 
 
 .imagem{
-    width: 100%;
-    max-width: 300px;
-    min-width: 300px;
-    border-radius: 1%;
-    
+    margin-top: 3rem;
+    width: 35%;
+    height: auto;
+    padding: 0.3rem;
+    border: 1px solid #dee2e6;
+    border-radius: 50%;
 }
 
 .caixaInterna{
