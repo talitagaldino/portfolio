@@ -1,0 +1,14 @@
+.container {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.container .container_conjunto .container_imagem {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    margin-top: 1rem;
+}
