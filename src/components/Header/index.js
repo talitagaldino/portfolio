@@ -9,7 +9,7 @@ const Header = () => {
             <section id="home">
                 <div className="container_conjunto">
                     <div className="container_imagem">
-                        <img src={foto} width="100%"/>
+                        <img src={foto} className="desenho"/>
                     </div>
                     <div className="container_titulo">
                         <h2> Talita Galdino </h2>

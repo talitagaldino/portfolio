@@ -1,9 +1,23 @@
+section {
+    margin-top: 3rem;
+}
+
+h2 {
+    font-size: 2.3rem;
+    font-weight: inherit;
+    margin-bottom: 0.8rem;
+    line-height: 3rem;
+}
+
 .container {
     display: block;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+.container .desenho {
+    width: 80%;
 }
 .container .container_conjunto .container_imagem {
     text-align: center;
