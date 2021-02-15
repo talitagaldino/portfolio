@@ -1,27 +1,20 @@
 import React from 'react';
-import './styles.css';
-import foto from './desenho.png';
+import { Image, Picture, ImagesContainer, HeaderContainer } from './style.js';
+import woman1 from '../../assets/woman1.jpg';
+import woman2 from '../../assets/woman2.jpg';
+import picture from '../../assets/talita.png';
 
 const Header = () => {
     return(
 
-        <div className="container">
-            <section id="home">
-                <div className="container_conjunto">
-                    <div className="container_imagem">
-                        <img src={foto} className="desenho"/>
-                    </div>
-                    <div className="container_titulo">
-                        <h2> Talita Galdino </h2>
-                        <h1> Computer science student </h1>
-                    </div>
-                    <div className="container_links">
-                        <h1> teste links </h1>
-                    </div>
-                </div> 
-            </section>
-        </div>
-    
+        <HeaderContainer>
+            <ImagesContainer>
+                <Image src={woman1} />
+                <Picture src={picture} />
+                <Image src={woman2} />
+            </ImagesContainer>
+
+        </HeaderContainer>    
     );
 };
 

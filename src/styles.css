@@ -9,22 +9,3 @@ body{
     font-family: 'Inconsolata', monospace;
     background-color:#FFF;
 }
-
-
-.imagem{
-    margin-top: 3rem;
-    width: 35%;
-    height: auto;
-    padding: 0.3rem;
-    border: 1px solid #dee2e6;
-    border-radius: 50%;
-}
-
-.caixaInterna{
-    padding: 10vh 15vw;
-}
-
-.caixaExterna .caixaInterna{
-    min-width: 100vh 100vw; 
-    max-width: 100%; 
-}

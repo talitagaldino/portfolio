@@ -26,10 +26,10 @@ export const Link = styled.a`
     list-style-type: none;
     display: inline;
     text-decoration: none;
-    color:#007bff;
+    color: #ffdb58;
 
     :hover{
         text-decoration: underline;
-        color: #003983; 
+        color: black; 
     }
 `;
