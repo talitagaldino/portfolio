@@ -25,3 +25,22 @@ export const ImagesContainer = styled.div`
 export const HeaderContainer = styled.div`
     margin-top: 3rem;
 `;
+
+export const InformationsContainer = styled.div`
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+`;
+
+export const H1 = styled.h1`
+    border-bottom: 1px solid #ffdb58;
+    margin: 1rem 0;
+    padding: 1rem;
+    text-align: center;
+`;
+
+export const H4 = styled.h3`  
+    margin: 0 0 1rem 0;
+    text-align: center;
+`;
