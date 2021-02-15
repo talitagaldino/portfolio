@@ -1,22 +1,22 @@
 import React from 'react';
-import './styles.css';
+import { Header, Link, List, ListItem, NavbarContainer } from './style.js';
 
 const Navbar = () => (
-    <header> 
-        <nav className="navbarContainer">
-            <ul className="linksNavbar">
-                <a href=""> Home</a>
-                <li> • </li>
-                <a href="#informacoes"> About me</a>
-                <li> • </li>
-                <a href="#contato"> Contact</a>
-                <li> • </li>
-                <a href="#skills"> Skills</a>
-                <li> • </li>
-                <a href="#experience"> Experience</a>
-            </ul>
-        </nav>
-    </header>
+    <Header> 
+        <NavbarContainer>
+            <List>
+                <Link href=""> Home</Link>
+                <ListItem> • </ListItem>
+                <Link href="#informacoes"> About me</Link>
+                <ListItem> • </ListItem>
+                <Link href="#contato"> Contact</Link>
+                <ListItem> • </ListItem>
+                <Link href="#skills"> Skills</Link>
+                <ListItem> • </ListItem>
+                <Link href="#experience"> Experience</Link>
+            </List>
+        </NavbarContainer>
+    </Header>
 
 );
 

@@ -1,12 +1,12 @@
 import React from 'react';
-import './styles.css';
+import { Description } from './style';
 
 const Descricao = () => {
     return(
 
-    <p className={'caixaDescricao'}> 
+    <Description> 
         Future software engineer always trying to learn
-    </p>
+    </Description>
     
     );
 };

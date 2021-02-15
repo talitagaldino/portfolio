@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles.css';
-import foto from './talita.png';
+import foto from './assets/talita.png';
 
 import NavBar from './components/Navbar';
 import Titulo from './components/Titulo/index';
