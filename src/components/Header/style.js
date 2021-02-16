@@ -18,6 +18,10 @@ export const ImagesContainer = styled.div`
     justify-content: space-between;
     max-height: 50vh;
     width: 100%;
+
+    @media screen and (max-width: 900px) {
+        height: 20vh;
+    }
 `;
 
 export const HeaderContainer = styled.div`
