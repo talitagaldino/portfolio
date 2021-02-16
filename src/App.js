@@ -4,11 +4,12 @@ import './styles.css';
 import { Container, InternalContainer } from './style.js';
 
 import NavBar from './components/Navbar';
-import Descricao from './components/Descricao';
 import Links from './components/Links';
-import Informacoes from './components/Informacoes';
+import About from './components/About';
 import Rodape from './components/Rodape';
 import Header from './components/Header';
+import Skills from './components/Skills';
+import Experience from './components/Experience';
 
 const App = () => (
   <>  
@@ -16,9 +17,10 @@ const App = () => (
         <NavBar />
       <InternalContainer> 
         <Header />
-        <Descricao />
+        <About />
+        <Skills />
+        <Experience />
         <Links />
-        <Informacoes />
       </InternalContainer>
 
       <Rodape />

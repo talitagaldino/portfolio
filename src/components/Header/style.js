@@ -40,7 +40,7 @@ export const H1 = styled.h1`
     text-align: center;
 `;
 
-export const H4 = styled.h3`  
+export const H2 = styled.h2`  
     margin: 0 0 1rem 0;
     text-align: center;
 `;
