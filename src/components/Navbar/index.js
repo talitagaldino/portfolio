@@ -9,7 +9,7 @@ const Navbar = () => (
                 <ListItem> • </ListItem>
                 <Link href="#about"> About me</Link>
                 <ListItem> • </ListItem>
-                <Link href="#contato"> Contact</Link>
+                <Link href="#contact"> Contact</Link>
                 <ListItem> • </ListItem>
                 <Link href="#skills"> Skills</Link>
                 <ListItem> • </ListItem>
