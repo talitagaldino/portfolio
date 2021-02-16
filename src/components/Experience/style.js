@@ -9,12 +9,12 @@ export const ExperienceContainer = styled.div`
 `;
 
 export const Title = styled.h1`
-	color: #ffdb58;
+	color: #8f3d8f;
 	margin: 30px 0;
 `;
 
 export const Subtitle = styled.h4`
-	color: #ffdb58;
+	color: #8f3d8f;
 `;
 
 export const Time = styled.h5`
@@ -31,11 +31,8 @@ export const Container = styled.div`
 `;
 
 export const List = styled.ul`
-	margin-top: 20px;
-	display: flex;
-	align-items: center;
-	flex-direction: column;
-
+	margin-top: 30px;
+	margin-left: 50px;
 `;
 
 export const Text = styled.text`
@@ -44,7 +41,7 @@ export const Text = styled.text`
 
 export const Link = styled.a`
 	text-decoration: none;
-	color: #ffdb58;
+	color: #8f3d8f;
 
 	:hover{
 		text-decoration: underline;

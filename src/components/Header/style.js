@@ -36,7 +36,7 @@ export const InformationsContainer = styled.div`
 `;
 
 export const H1 = styled.h1`
-    border-bottom: 1px solid #ffdb58;
+    border-bottom: 1px solid #8f3d8f;
     margin: 1rem 0;
     padding: 1rem;
     text-align: center;

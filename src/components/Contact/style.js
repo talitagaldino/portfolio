@@ -9,7 +9,7 @@ export const ContactContainer = styled.div`
 `;
 
 export const Title = styled.h1`
-	color: #ffdb58;
+	color: #8f3d8f;
 	margin: 30px 0;
 `;
 
@@ -29,9 +29,10 @@ export const Link = styled.a`
 	font-weight: 100;
 	margin-top: 5px;
 	margin-left: 10px;
+	color: #000;
 	
 	:hover{
-		color: #ffdb58;
+		color: #8f3d8f;
 		text-decoration: underline;
 		cursor: pointer;
 	}

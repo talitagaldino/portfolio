@@ -8,12 +8,12 @@ export const SkillsContainer = styled.div`
 `;
 
 export const Title = styled.h1`
-	color: #ffdb58;
+	color: #8f3d8f;
 	margin: 30px 0;
 `;
 
 export const Subtitle = styled.h4`
-	color: #ffdb58;
+	color: #8f3d8f;
 `;
 
 export const TextContainer = styled.div`
