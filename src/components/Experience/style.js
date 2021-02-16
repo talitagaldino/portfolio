@@ -18,7 +18,7 @@ export const Subtitle = styled.h4`
 `;
 
 export const Time = styled.h5`
-	color: #ffdb58;
+	color: #c8a2c8;
 	margin-top: 10px;
 	font-weight: 100;
 `;

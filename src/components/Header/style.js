@@ -7,6 +7,7 @@ export const Image = styled.img`
 
 export const Picture = styled.img`
     margin-bottom: 1rem;
+    object-fit: contain;
 	width: 35%;
 	height: auto;
 	padding: 0.3rem;

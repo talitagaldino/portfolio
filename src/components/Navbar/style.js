@@ -26,7 +26,7 @@ export const Link = styled.a`
     list-style-type: none;
     display: inline;
     text-decoration: none;
-    color: #ffdb58;
+    color: #c8a2c8;
 
     :hover{
         text-decoration: underline;
