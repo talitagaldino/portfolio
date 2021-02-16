@@ -7,12 +7,10 @@ export const Image = styled.img`
 
 export const Picture = styled.img`
     margin-bottom: 1rem;
-    object-fit: contain;
+    object-fit: cover;
 	width: 35%;
 	height: auto;
-	padding: 0.3rem;
-	border: 1px solid #dee2e6;
-	border-radius: 50%;
+    border-radius: 50%;
 `;
 
 export const ImagesContainer = styled.div`
