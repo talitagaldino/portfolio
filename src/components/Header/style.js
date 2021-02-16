@@ -9,7 +9,6 @@ export const Picture = styled.img`
     margin-bottom: 1rem;
     object-fit: cover;
 	width: 35%;
-	height: auto;
     border-radius: 50%;
 `;
 
