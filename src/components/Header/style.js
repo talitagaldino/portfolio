@@ -16,7 +16,7 @@ export const ImagesContainer = styled.div`
     margin-top: 20px;
     display: flex;
     justify-content: space-between;
-    height: auto;
+    max-height: 50vh;
     width: 100%;
 `;
 
