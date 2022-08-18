@@ -4,7 +4,7 @@ import { AboutContainer, Title, TextContainer } from './style.js';
 const About = () =>{
     return(
         <AboutContainer id='about'>
-            <Title> About me </Title>
+            <Title> About TALI </Title>
             <TextContainer>
                 My name is Talita Galdino, I'm 24 years old and I'm from Campina Grande, Brazil. I'm an undergraduate student
                 of Computer Science at the Federal University of Campina Grande, with the graduation expected for 2022.
